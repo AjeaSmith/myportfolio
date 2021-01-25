@@ -27,12 +27,12 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'YTComments.png',
+    title: 'YouTube Comments Analyst',
+    info: 'A web app that calculates the positivity of a youtube video based on their comments.',
+    info2: 'React, Ant-Design, Youtube Data API',
+    url: 'https://youtubeanalyst.netlify.app/',
+    repo: 'https://github.com/AjeaSmith/FrontendGuide/tree/master/React/commentanalytics', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
